@@ -13,7 +13,7 @@ With a profound fascination for technology, I have dedicated myself to the field
 
 My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my skills to safeguard individuals and organizations from the ever-evolving threats in the digital landscape. I am committed to protecting people from cyber dangers and contributing to the advancement of cybersecurity practices.
 
----
+
 
 
 <details close="">
@@ -28,6 +28,7 @@ My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my 
   </ul>
 </details>
 
+---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
