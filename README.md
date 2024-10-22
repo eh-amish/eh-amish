@@ -46,7 +46,7 @@ and contributing to the advancement of cybersecurity practices.
 <p>👉 Building & Contributing to Open Source Projects.</p>
 <p>👉 Currently Learning Mobile Pentesting & Web3.</p>
 
-
+---
 <details>
   <summary>Some Other Achievements</summary>
    <br>
@@ -58,7 +58,7 @@ Accessories, Apache Pulsar, Equal Employment Opportunity Commission, Pension Ben
 * 🏆 HackTheBox: - Solved 85+ Lab Machines.
   
 </details>
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
