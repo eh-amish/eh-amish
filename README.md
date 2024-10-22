@@ -6,7 +6,7 @@
 
 ### Hacker & Security Researcher
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnEweHpqZ2M0bGpqanJ1bzdwZmsyNHFuOGxkdGphaGEwcXZyMzB1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif">
 
 With a profound fascination for technology, I have dedicated myself to the field of cybersecurity. My journey has led me to explore various facets of this domain, including malware analysis, virus research, and bug hunting.
 
