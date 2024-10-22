@@ -14,8 +14,7 @@ My journey has led me to explore various facets of this domain,
 including malware analysis, virus research, and bug hunting.
 
 My goal is to become a **Cybersecurity Specialist**,  
-where I aim to leverage my skills to safeguard individuals and organizations  
-from the ever-evolving threats in the digital landscape.  
+where I aim to leverage my skills to safeguard individuals and organizations from the ever-evolving threats in the digital landscape.  
 I am committed to protecting people from cyber dangers  
 and contributing to the advancement of cybersecurity practices.
 
