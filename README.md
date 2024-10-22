@@ -38,29 +38,6 @@ and contributing to the advancement of cybersecurity practices.
 
 
 ## Present-Status
-<img align="right" alt="coding" width="200" src="https://web.archive.org/web/20240725095918/https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966">
-          
-<p>👉 Still Learning Bug Hunting, Reverse Engineering & Malware Analysis.</p>
-<p>👉 Managing Tech Communities & Organizing Events.</p>
-<p>👉 Writing Useful Python & Shell Tools for Myself & Communities.</p>
-<p>👉 Building & Contributing to Open Source Projects.</p>
-<p>👉 Currently Learning Mobile Pentesting & Web3.</p>
-
-
-<details>
-  <summary>Some Other Achievements</summary>
-   <br>
-  
- * 🏆 Found Security Issues in Various Websites: - NASA, Moneytree KK, Board ReliaQuest, ROKT, Roobet, Apperal
-Accessories, Apache Pulsar, Equal Employment Opportunity Commission, Pension Benefit Guaranty Corporation,
-20+ Others.                                                                                                           
-* 🏆 Case Study on Log4j                                                                                                
-* 🏆 HackTheBox: - Solved 85+ Lab Machines.
-  
-</details>
-
-
-<h3## Present-Status
 
 <img align="right" alt="coding" width="200" src="https://web.archive.org/web/20240725095918/https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966">
 
@@ -92,4 +69,3 @@ Accessories, Apache Pulsar, Equal Employment Opportunity Commission, Pension Ben
 <a href="https://instagram.com/amish_mishra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amish_mishra1" height="30" width="40" /></a>
 <a href="https://discord.gg/insane_302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="insane_302" height="30" width="40" /></a>
 </p>
-
