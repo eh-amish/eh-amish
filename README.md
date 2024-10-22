@@ -6,7 +6,7 @@
 
 ### Hacker & Security Researcher
 
-<img align="right" alt="coding" width="350" src="https://tenor.com/en-GB/view/logo-suit-anonymous-symbol-animation-gif-4989570">
+<img align="right" alt="coding" width="350" src="https://tenor.com/u6a6.gif">
 
 
 With a profound fascination for technology, I have dedicated myself to the field of cybersecurity. My journey has led me to explore various facets of this domain, including malware analysis, virus research, and bug hunting.
