@@ -8,9 +8,16 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-With a profound fascination for technology, I have dedicated myself to the field of cybersecurity. My journey has led me to explore various facets of this domain, including malware analysis, virus research, and bug hunting.
+With a profound fascination for technology,  
+I have dedicated myself to the field of cybersecurity.  
+My journey has led me to explore various facets of this domain,  
+including malware analysis, virus research, and bug hunting.
 
-My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my skills to safeguard individuals and organizations from the ever-evolving threats in the digital landscape. I am committed to protecting people from cyber dangers and contributing to the advancement of cybersecurity practices.
+My goal is to become a **Cybersecurity Specialist**,  
+where I aim to leverage my skills to safeguard individuals and organizations  
+from the ever-evolving threats in the digital landscape.  
+I am committed to protecting people from cyber dangers  
+and contributing to the advancement of cybersecurity practices.
 
 ---
 
