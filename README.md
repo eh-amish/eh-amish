@@ -72,7 +72,7 @@ My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my 
 ## Present-Status
 
 
-<img align="right" alt="coding" width="350" src="https://i.gifer.com/A46G.gif">
+<img align="right" alt="coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNlNXl0cjJrMnR4emo3aGU1bzRmMnR3eWxodjAyaGpiemdudWpweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dCBZtA2iuNqZW/giphy.gif">
 
 - 👉 Still Learning Bug Hunting, Reverse Engineering & Malware Analysis.
 - 👉 Managing Tech Communities & Organizing Events.
