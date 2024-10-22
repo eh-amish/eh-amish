@@ -39,7 +39,6 @@ and contributing to the advancement of cybersecurity practices.
 
 ## Present-Status
 
----
 
 <img align="right" alt="coding" width="200" src="https://web.archive.org/web/20240725095918/https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966">
 
