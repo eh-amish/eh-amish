@@ -69,16 +69,23 @@ My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my 
 
 ---
 
-## Present-Status
+<h2 id="present_status"> Present Status </h3>
 
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-<img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNlNXl0cjJrMnR4emo3aGU1bzRmMnR3eWxodjAyaGpiemdudWpweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dCBZtA2iuNqZW/giphy.gif">
+👉 Still Learning Bug hunting & malware forensics.
 
-- 👉 Still Learning Bug Hunting, Reverse Engineering & Malware Analysis.
-- 👉 Managing Tech Communities & Organizing Events.
-- 👉 Writing Useful Python & Shell Tools for Myself & Communities.
-- 👉 Building & Contributing to Open Source Projects.
-- 👉 Currently Learning Mobile Pentesting & Web3.
+👉 Managing Tech Communities & Content creator.
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist.
+
+---
 
 
 <details>
