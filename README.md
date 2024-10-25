@@ -31,7 +31,7 @@ My goal is to become a **Cybersecurity Specialist**, where I aim to leverage my 
 
 ## Present Status
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 👉 Still Learning Bug hunting & malware forensics.
 
